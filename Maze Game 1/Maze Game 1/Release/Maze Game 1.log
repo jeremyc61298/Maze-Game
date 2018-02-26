@@ -1,0 +1,10 @@
+﻿  mazeClass.cpp
+mazeClass.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+mazeClass.cpp(340): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+mazeClass.cpp(341): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+mazeClass.cpp(358): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  mazeGame.cpp
+  Generating code
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Maze Game 1.vcxproj -> C:\Users\jerem\Desktop\OOP\Maze Game 1\Release\Maze Game 1.exe

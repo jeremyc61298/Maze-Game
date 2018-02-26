@@ -1,0 +1,9 @@
+﻿  mazeGame.cpp
+  mazeClass.cpp
+c:\users\jerem\desktop\oop\maze game 1\maze game 1\mazeclass.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jerem\desktop\oop\maze game 1\maze game 1\mazeclass.cpp(340): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\jerem\desktop\oop\maze game 1\maze game 1\mazeclass.cpp(341): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\jerem\desktop\oop\maze game 1\maze game 1\mazeclass.cpp(358): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  Maze Game 1.vcxproj -> C:\Users\jerem\Desktop\OOP\Maze Game 1\Debug\Maze Game 1.exe
+  Maze Game 1.vcxproj -> C:\Users\jerem\Desktop\OOP\Maze Game 1\Debug\Maze Game 1.pdb (Partial PDB)
