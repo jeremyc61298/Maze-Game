@@ -1,2 +1,2 @@
 # Maze-Game
-Maze game built for OOP which created randomly generated maze for a player to solve. 
+Maze game built for OOP which creates a randomly generated maze for a player to solve. 
